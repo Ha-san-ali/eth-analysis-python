@@ -1,13 +1,15 @@
 # eth-analysis-python
-My attempt to apply [jaungiers LSTM Neural Network](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) to etherium prices in order to predict hstorical prices with a recurrent NN.
+My attempt to apply [jaungiers LSTM Neural Network](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) to ethereum in order to predict historical prices with a recurrent NN.
 
 Historical Ethereum prices taken from etherscan.io and are current until December 27th 2017
 
-Result
+## Result
+
+Predicting 25 steps ahead
 
 ![etherprices](https://github.com/Ha-san-ali/eth-analysis-python/blob/master/ethprices.png?raw=true "ethereum prices")
 
-Credits:
+## Credits
 
 https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction
 
